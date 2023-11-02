@@ -1,0 +1,86 @@
+html{
+    font-family: "poppins";
+    font-weight: 500;
+}
+
+body{
+    margin: 0;
+}
+
+h3{
+    font-size: 22px;
+}
+.work-experience h1{
+    display: flex;
+    justify-content: center;
+    
+}
+.nav-image{
+    z-index:-1;
+    height: 5vh;
+    width: auto;
+    position: absolute;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    padding: 0;
+    margin: 0; 
+    position: relative; 
+}
+.nav-bar li{
+    font-family: "__Montserrat_258d1f,__Montserrat_Fallback_258d1f";
+    font-size: 20px ;
+    display: inline;
+    margin-right: 100px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.caption{
+    text-align: center;
+    padding-top: 5vh;
+}
+.work-experience{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+}
+.course-staff{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid hsla(0,1%,39%,.15);
+    padding: 25px;
+    width: 40vw;
+}
+
+.web-dev{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid hsla(0,1%,39%,.15);
+    padding: 25px; 
+    width: 40vw;
+
+}
+
+.albertson{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid hsla(0,1%,39%,.15);
+    padding: 25px;
+    width: 40vw;
+
+}
+
+.wix{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid hsla(0,1%,39%,.15);
+    padding: 25px;
+    width: 40vw;
+}
