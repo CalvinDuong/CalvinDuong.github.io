@@ -51,7 +51,7 @@ a {
     gap: 1.5rem;
     align-items: center;
 }
-.course-staff{
+.Babec{
     display: flex;
     flex-direction: column;
     border: 1px solid hsla(0,1%,39%,.15);
@@ -68,7 +68,7 @@ a {
 
 }
 
-.BABEC{
+.SoFi{
     display: flex;
     flex-direction: column;
     border: 1px solid hsla(0,1%,39%,.15);
@@ -77,7 +77,7 @@ a {
 
 }
 
-.BigCommerce{
+.TeachingAssistant{
     display: flex;
     flex-direction: column;
     border: 1px solid hsla(0,1%,39%,.15);
